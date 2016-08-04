@@ -1,0 +1,27 @@
+_repo: The-Foreigner--A-Tale-of-Saskatchewan_3466
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Connor, Ralph
+    alias: Gordon, Charles William
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '1142'
+    url: http://www.gutenberg.org/2009/agents/1142
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_Connor
+description: ''
+gutenberg_issued: '2004-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3466'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcsh 'Saskatchewan -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The Foreigner: A Tale of Saskatchewan'
+url: http://www.gutenberg.org/ebooks/3466
